@@ -59,7 +59,11 @@ function ProjectComponent({
     >
       <article className="min-h-full h-full overflow-hidden rounded-lg shadow-lg-card bg-blue-900">
         <a href={projectUrl}>
-          <img alt="Placeholder" className="block" src={projectImage} />
+          <img
+            alt="Placeholder"
+            className="block max-h-56 w-full"
+            src={projectImage}
+          />
 
           <header className="leading-tight p-2 md:p-4">
             <h1 className="text-lg text-white font-sans">
