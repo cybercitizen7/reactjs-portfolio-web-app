@@ -1,10 +1,8 @@
 const ABOUT_ME = `I consider myself a coding Ninja! Fancy title, I know, but the reasoning behind is that I overcome my challenges like Ninja's do:
-Stealthy & Efficient. You see, in the past I worked with several different programming languages with totally diferent technologise (Game Development,
+Stealthy & Efficient. You see, in the past I worked with several different programming languages with totally diferent technologies (Game Development,
   Mobile Development, Scripting, Integrations, FullStack, etc.). And in each of those jobs, I managed to learn the programming language and its concepts 
-  so I could use them on advanced levels. I did efficiently (fast) and steahlthy (unexepected by others). This is also my motto: I always want to achieve better 
-  than I did yesterday. Like we want to continously push commits, so do I want to coninously improve my skills and knowledge.
-
-  'Asking a questions makes you a fool for a minute; Not asking it makes you a fool forever.'
+  so I could use them on advanced levels. I did efficiently (fast) and stealthy (unexpected by others). This is also my motto: I always want to achieve better 
+  than I did yesterday. Like we want to continously push commits, so do I want to coninously improve my skills and knowledge.  
 `
 
 const TEST_ABOUT_ME = `
