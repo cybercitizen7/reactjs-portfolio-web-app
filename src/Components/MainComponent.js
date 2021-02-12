@@ -81,7 +81,7 @@ function MainComponent() {
             <img src={left} alt="Left Arrow" />
           </button>
         </div> */}
-      <div className="flex flex-nowrap gap-x-4 -mx-1 lg:-mx-4">
+      {/* <div className="flex flex-nowrap gap-x-4 -mx-1 lg:-mx-4">
         <ProjectComponent
           projectName="Talking Tom Camp"
           projectDescription={TTC.projectDescription}
@@ -100,6 +100,26 @@ function MainComponent() {
           projectImage={NXP.projectImage}
           projectUrl={NXP.projectUrl}
         />
+        />
+      </div>*/}
+      <div className="grid grid-cols-auto grid-rows-test gap-3 mx-1 lg:-mx-4">
+        <ProjectComponent
+          projectName="Talking Tom Camp"
+          projectDescription={TTC.projectDescription}
+          projectImage={TTC.projectImage}
+          projectUrl={TTC.projectUrl}
+        />
+        <ProjectComponent
+          projectName="Minxli"
+          projectDescription={MINXLI.projectDescription}
+          projectImage={MINXLI.projectImage}
+          projectUrl={MINXLI.projectUrl}
+        />
+        <ProjectComponent
+          projectName="NXP Tag Info"
+          projectDescription={NXP.projectDescription}
+          projectImage={NXP.projectImage}
+          projectUrl={NXP.projectUrl}
         />
       </div>
       {/* <div className="flex flex-col justify-center mx-4">

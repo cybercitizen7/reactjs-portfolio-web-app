@@ -16,7 +16,17 @@ module.exports = {
     height: {
       'h-10': 'height: 10%',
     },
-    extend: {},
+    extend: {
+      gridTemplateColumns: {
+        auto: 'repeat(3, minmax(200px, 1fr))',
+      },
+      gridTemplateRows: {
+        test: 'repeat(1, minmax(0, 1fr))',
+      },
+      gridAutoRows: {
+        '2fr': 'minmax(0, 2fr)',
+      },
+    },
   },
   variants: {
     extend: {},
