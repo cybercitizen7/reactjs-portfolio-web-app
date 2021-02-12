@@ -7,7 +7,7 @@ by building a small portfolio website. I am using
 Some parts of code might seem over-complexed, but this is because I want to
 understand some of the new features or just jiggle around with the code.
 
-**NOTE:\*** For this reasons this project is considered as Draft and it is not a
+**NOTE:** For this reasons this project is considered as Draft and it is not a
 final version. A lot of code will be commented-out, because I am testing /
 exploring things.
 
