@@ -11,6 +11,8 @@ understand some of the new features or just jiggle around with the code.
 final version. A lot of code will be commented-out, because I am testing /
 exploring things.
 
+**NOTE2:** My App does not support mobile device views yet.
+
 ## Sample Screen
 
 ![Screenshot of WebApp](http://shrani.si/f/3a/2u/3xuFVxXs/20210212-reactjs-portfol.png)
