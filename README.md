@@ -1,13 +1,13 @@
 # PORTFOLIO WEB APP
 
-This is my personal hobby project where I explore some of the ReactJS features
-by building a small portfolio website. I am using
-[TailwindCSS](https://tailwindcss.com/) for styling the app.
+This is my personal hobby project where I explore some of the
+[ReactJS](https://reactjs.org/) features by building a small portfolio website.
+I am using [TailwindCSS](https://tailwindcss.com/) for styling the app.
 
 Some parts of code might seem over-complexed, but this is because I want to
 understand some of the new features or just jiggle around with the code.
 
-**NOTE:** For this reasons this project is considered as Draft and it is not a
+**NOTE:** For these reasons this project is considered as Draft and it is not a
 final version. A lot of code will be commented-out, because I am testing /
 exploring things.
 
