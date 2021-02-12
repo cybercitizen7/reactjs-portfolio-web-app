@@ -102,7 +102,7 @@ function MainComponent() {
         />
         />
       </div>*/}
-      <div className="grid grid-cols-auto grid-rows-test gap-3 mx-1 lg:-mx-4">
+      <div className="grid grid-cols-3 grid-rows-test gap-3 mx-1 lg:-mx-4">
         <ProjectComponent
           projectName="Talking Tom Camp"
           projectDescription={TTC.projectDescription}
