@@ -30,6 +30,10 @@ const NXP_IMAGE_URL = `${process.env.PUBLIC_URL}/assets/images/nxp_app_logo.jpg`
 const NXP_PROJECT_DESCRIPTION = `TagInfo is the second application provided to you by NXP Semiconductors that utilizes the Near Field Communication technology. NXP Semiconductors is the co-inventor of NFC and we do not only provide services to professionals but we like to provide utilities and apps for the masses as well. We are keen to help you explore NFC features of your devices and to make you enjoy the technology.`
 const NXP_PROJECT_APP_URL = `https://play.google.com/store/apps/details?id=com.nxp.taginfolite&hl=en_US&gl=US`
 
+const GITHUB_IMAGE_URL = `${process.env.PUBLIC_URL}/assets/images/github_icon.png`
+const TWITTER_IMAGE_URL = `${process.env.PUBLIC_URL}/assets/images/twitter_icon.png`
+const LINKEDIN_IMAGE_URL = `${process.env.PUBLIC_URL}/assets/images/linkedin_icon.png`
+
 export {
   ABOUT_ME,
   TEST_ABOUT_ME,
@@ -43,4 +47,7 @@ export {
   NXP_IMAGE_URL,
   NXP_PROJECT_DESCRIPTION,
   NXP_PROJECT_APP_URL,
+  GITHUB_IMAGE_URL,
+  TWITTER_IMAGE_URL,
+  LINKEDIN_IMAGE_URL,
 }
